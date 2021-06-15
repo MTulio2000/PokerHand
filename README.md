@@ -8,13 +8,13 @@ To solve this problem we are dividing it into a small pieces. I propose to have 
 
 ## Card
 
-Card redefine logical operators to help us when we need to separate cards, or compare them with one another. To make new Card you have to:
+Card redefine logical operators to help us when we need to separate cards, or to compare them. To make new Card you have to:
 
 ```Python
 ace_hearts = Card("AH")
 four_clubs = Card("4C")
 ```
-In the example we declare a new Card **Ace of Hearts** and **Four of Clubs**.
+In the example we declare a new **Ace of Hearts** and **Four of Clubs**.
 
 ## Hand 
 

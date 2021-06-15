@@ -18,7 +18,7 @@ class PokerHand:
         self.hand = Hand(hand)
 
     '''
-    If has a draw, the code will check what each hand is the winner
+    If had a draw, the code will verify which hand is the winner
     '''
     def draw(self,hand : Hand):
         myHand = self.hand.hand

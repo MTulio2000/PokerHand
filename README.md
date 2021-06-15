@@ -1,6 +1,6 @@
 # PokerHand Solution
 
-To solve this problem we using the concept of breaking the problem into a small pieces. I propose make three important classes, they are:
+To solve this problem we are dividing it into a small pieces. I propose to have three important classes. They are:
 
 * Card
 * Hand
